@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)]
+![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
 <h1 align="center">Hi 👋, I'm Harshal Madgulkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
